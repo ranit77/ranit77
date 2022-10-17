@@ -6,4 +6,4 @@ Im Ranit Ghosh.
 
 🔭 I’m currently learning C++
 
-😀 I have made projects on C and C++(Total=2)
+😀 I have made projects on C and C++(Total=3)
