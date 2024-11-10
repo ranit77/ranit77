@@ -4,6 +4,6 @@ Hey Hi there 👋
 
 Im Ranit Ghosh.
 
-🔭 I’m currently learning C++
+🔭 I’m currently learning Java.
 
 😀 I have made simple projects on C and C++(Total=4)
