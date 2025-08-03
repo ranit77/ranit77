@@ -2,12 +2,12 @@
 
 ## 👋 Hey there! I'm Ranit Ghosh
 
-🔭 Currently diving deep into **Java with Spring Boot**
+🔭 Currently diving deep into **Java with Spring Boot** utilizing tools like **Spring JDBC**.
 
 🚀 I've been working on hands-on projects using **Spring JDBC**, which are still under development — currently kept private.  
 Stay tuned — they’ll be made public very soon!
 
-💻 Passionate about building real-world Java backend applications and constantly improving.
+💻 Passionate about backend development, database connectivity, and writing clean, production-ready Java code.
 
 Thanks for stopping by! 😊
 
